@@ -1,0 +1,72 @@
+[
+  {
+    "title": "What does JavaScript primarily do?",
+    "choices": [
+      "Create static web pages",
+      "Design the layout of a webpage",
+      "Make web pages interactive",
+      "Manage databases"
+    ],
+    "answer": "Make web pages interactive"
+  },
+  {
+    "title": "How do you write a single-line comment in JavaScript?",
+    "choices": ["/* comment */", "// comment", "# comment", "' comment '"],
+    "answer": "// comment"
+  },
+  {
+    "title": "Which keyword is used to declare a variable in JavaScript?",
+    "choices": ["var", "let", "const", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "title": "What is the correct way to write a JavaScript array?",
+    "choices": ["[1, 2, 3]", "1, 2, 3", "{1, 2, 3}", "(1, 2, 3)"],
+    "answer": "[1, 2, 3]"
+  },
+  {
+    "title": "Which operator is used to compare two values for equality?",
+    "choices": ["=", "==", "===", "!="],
+    "answer": "=="
+  },
+  {
+    "title": "What is the purpose of the if...else statement?",
+    "choices": [
+      "To execute a block of code conditionally",
+      "To create a loop",
+      "To define a function",
+      "To handle errors"
+    ],
+    "answer": "To execute a block of code conditionally"
+  },
+  {
+    "title": "How do you access the first element of an array named \"myArray\"?",
+    "choices": ["myArray[0]", "myArray.first", "myArray(0)", "myArray.head"],
+    "answer": "myArray[0]"
+  },
+  {
+    "title": "Which method is used to add a new element to the end of an array?",
+    "choices": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()"
+  },
+  {
+    "title": "What is the purpose of the document.getElementById() method?",
+    "choices": [
+      "To get an element by its ID",
+      "To get an element by its class name",
+      "To create a new HTML element",
+      "To change the style of an element"
+    ],
+    "answer": "To get an element by its ID"
+  },
+  {
+    "title": "What does the this keyword refer to within a function?",
+    "choices": [
+      "The current function",
+      "The global object",
+      "The object that the function is a property of",
+      "The value returned by the function"
+    ],
+    "answer": "The object that the function is a property of"
+  }
+]

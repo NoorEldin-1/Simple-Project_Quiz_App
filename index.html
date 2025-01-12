@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Quiz App</title>
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/all.min.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h2>Quiz App</h2>
+    <div class="info-popUp">
+      <div>
+        All: 30 Questions About HTML, CSS, and JavaScript each question takes 5
+        seconds.<br />
+        HTML: 10 Questions About HTML each question takes 5 seconds.<br />
+        CSS: 10 Questions About CSS each question takes 5 seconds.<br />
+        JavaScript: 10 Questions About JavaScript each question takes 5
+        seconds.<br />
+      </div>
+    </div>
+    <div class="details-container">
+      <div>
+        Category:
+        <select name="" id="">
+          <option value="not-selected">Not-Selected</option>
+          <option value="all">All</option>
+          <option value="html">HTML</option>
+          <option value="css">CSS</option>
+          <option value="javascript">JavaScript</option>
+        </select>
+      </div>
+      <span class="info-icon">!</span>
+    </div>
+    <button class="quiz-button" disabled>Start Quiz</button>
+    <div class="quiz-container">
+      <div class="quiz-area">
+        <h3></h3>
+      </div>
+      <div class="answer-area"></div>
+      <div class="progress">
+        <div class="bullets"></div>
+        <div class="time"></div>
+      </div>
+    </div>
+    <div class="result">
+      <div class="message">
+        <span class="perfect"></span> Your Result is <span></span>/<span></span>
+      </div>
+      <i class="fa-solid fa-rotate-right"></i>
+    </div>
+    <script src="main.js"></script>
+  </body>
+</html>

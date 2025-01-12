@@ -1,0 +1,232 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "High-Tech Multimedia Language",
+      "Home Tool Markup Language",
+      "Hyperlink and Text Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which tag is used to define a paragraph in HTML?",
+    "choices": ["<br>", "<h1>", "<p>", "<div>"],
+    "answer": "<p>"
+  },
+  {
+    "title": "What does JavaScript primarily do?",
+    "choices": [
+      "Create static web pages",
+      "Design the layout of a webpage",
+      "Make web pages interactive",
+      "Manage databases"
+    ],
+    "answer": "Make web pages interactive"
+  },
+  {
+    "title": "How do you write a single-line comment in JavaScript?",
+    "choices": ["/* comment */", "// comment", "# comment", "' comment '"],
+    "answer": "// comment"
+  },
+  {
+    "title": "Which keyword is used to declare a variable in JavaScript?",
+    "choices": ["var", "let", "const", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "title": "What does CSS stand for?",
+    "choices": [
+      "Cascading Style Sheets",
+      "Creative Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which property is used to change the color of text?",
+    "choices": ["text-color", "color", "font-color", "text-style"],
+    "answer": "color"
+  },
+  {
+    "title": "How do you select all elements with the class name \"myClass\"?",
+    "choices": ["#myClass", ".myClass", "*myClass", "@myClass"],
+    "answer": ".myClass"
+  },
+  {
+    "title": "Which property is used to control the spacing between lines of text?",
+    "choices": [
+      "line-spacing",
+      "letter-spacing",
+      "word-spacing",
+      "line-height"
+    ],
+    "answer": "line-height"
+  },
+  {
+    "title": "Which property is used to set the width of the border of an element?",
+    "choices": [
+      "border-width",
+      "border-size",
+      "border-thickness",
+      "border-space"
+    ],
+    "answer": "border-width"
+  },
+  {
+    "title": "How do you make an element float to the left side of its container?",
+    "choices": [
+      "float: left;",
+      "align: left;",
+      "position: left;",
+      "direction: left;"
+    ],
+    "answer": "float: left;"
+  },
+  {
+    "title": "Which property is used to add a background color to an element?",
+    "choices": [
+      "background",
+      "bgcolor",
+      "background-color",
+      "color-background"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "title": "What is the purpose of the @import rule in CSS?",
+    "choices": [
+      "To import external style sheets",
+      "To import images",
+      "To import JavaScript files",
+      "To import HTML elements"
+    ],
+    "answer": "To import external style sheets"
+  },
+  {
+    "title": "Which property is used to control the margin around an element?",
+    "choices": ["padding", "border", "margin", "space"],
+    "answer": "margin"
+  },
+  {
+    "title": "What is the difference between inline and external CSS?",
+    "choices": [
+      "Inline CSS is defined within the HTML element, external CSS is defined in a separate file.",
+      "Inline CSS is defined in a separate file, external CSS is defined within the HTML element.",
+      "There is no difference between inline and external CSS.",
+      "Inline CSS is used for styling, external CSS is used for layout."
+    ],
+    "answer": "Inline CSS is defined within the HTML element, external CSS is defined in a separate file."
+  },
+  {
+    "title": "What is the correct way to write a JavaScript array?",
+    "choices": ["[1, 2, 3]", "1, 2, 3", "{1, 2, 3}", "(1, 2, 3)"],
+    "answer": "[1, 2, 3]"
+  },
+  {
+    "title": "Which operator is used to compare two values for equality?",
+    "choices": ["=", "==", "===", "!="],
+    "answer": "=="
+  },
+  {
+    "title": "What is the purpose of the if...else statement?",
+    "choices": [
+      "To execute a block of code conditionally",
+      "To create a loop",
+      "To define a function",
+      "To handle errors"
+    ],
+    "answer": "To execute a block of code conditionally"
+  },
+  {
+    "title": "How do you access the first element of an array named \"myArray\"?",
+    "choices": ["myArray[0]", "myArray.first", "myArray(0)", "myArray.head"],
+    "answer": "myArray[0]"
+  },
+  {
+    "title": "Which method is used to add a new element to the end of an array?",
+    "choices": ["push()", "pop()", "shift()", "unshift()"],
+    "answer": "push()"
+  },
+  {
+    "title": "What is the purpose of the document.getElementById() method?",
+    "choices": [
+      "To get an element by its ID",
+      "To get an element by its class name",
+      "To create a new HTML element",
+      "To change the style of an element"
+    ],
+    "answer": "To get an element by its ID"
+  },
+  {
+    "title": "What does the this keyword refer to within a function?",
+    "choices": [
+      "The current function",
+      "The global object",
+      "The object that the function is a property of",
+      "The value returned by the function"
+    ],
+    "answer": "The object that the function is a property of"
+  },
+  {
+    "title": "How do you create a hyperlink in HTML?",
+    "choices": [
+      "Using the <a> tag with the href attribute",
+      "Using the <link> tag",
+      "Using the <img> tag with a URL",
+      "Using the <b> tag"
+    ],
+    "answer": "Using the <a> tag with the href attribute"
+  },
+  {
+    "title": "What is the purpose of the <img> tag?",
+    "choices": [
+      "To create a list",
+      "To insert an image",
+      "To define a heading",
+      "To create a table"
+    ],
+    "answer": "To insert an image"
+  },
+  {
+    "title": "Which tag is used to define a list item in an unordered list?",
+    "choices": ["<ol>", "<li>", "<ul>", "<dl>"],
+    "answer": "<li>"
+  },
+  {
+    "title": "Which tag is used to define a table row in HTML?",
+    "choices": ["<tr>", "<td>", "<th>", "<table>"],
+    "answer": "<tr>"
+  },
+  {
+    "title": "What is the purpose of the <head> section in an HTML document?",
+    "choices": [
+      "To contain the main content of the page",
+      "To define metadata about the page",
+      "To style the page",
+      "To create a navigation bar"
+    ],
+    "answer": "To define metadata about the page"
+  },
+  {
+    "title": "Which attribute is used to specify the URL of an image in the <img> tag?",
+    "choices": ["href", "src", "alt", "title"],
+    "answer": "src"
+  },
+  {
+    "title": "What is the difference between <div> and <span> tags?",
+    "choices": [
+      "<div> is a block-level element, <span> is an inline element",
+      "<div> is an inline element, <span> is a block-level element",
+      "Both are block-level elements",
+      "Both are inline elements"
+    ],
+    "answer": "<div> is a block-level element, <span> is an inline element"
+  },
+  {
+    "title": "Which tag is used to define the title that appears in the browser tab?",
+    "choices": ["<title>", "<h1>", "<head>", "<meta>"],
+    "answer": "<title>"
+  }
+]

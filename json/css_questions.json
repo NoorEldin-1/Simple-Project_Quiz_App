@@ -1,0 +1,87 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "choices": [
+      "Cascading Style Sheets",
+      "Creative Style Sheets",
+      "Computer Style Sheets",
+      "Colorful Style Sheets"
+    ],
+    "answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "Which property is used to change the color of text?",
+    "choices": ["text-color", "color", "font-color", "text-style"],
+    "answer": "color"
+  },
+  {
+    "title": "How do you select all elements with the class name \"myClass\"?",
+    "choices": ["#myClass", ".myClass", "*myClass", "@myClass"],
+    "answer": ".myClass"
+  },
+  {
+    "title": "Which property is used to control the spacing between lines of text?",
+    "choices": [
+      "line-spacing",
+      "letter-spacing",
+      "word-spacing",
+      "line-height"
+    ],
+    "answer": "line-height"
+  },
+  {
+    "title": "Which property is used to set the width of the border of an element?",
+    "choices": [
+      "border-width",
+      "border-size",
+      "border-thickness",
+      "border-space"
+    ],
+    "answer": "border-width"
+  },
+  {
+    "title": "How do you make an element float to the left side of its container?",
+    "choices": [
+      "float: left;",
+      "align: left;",
+      "position: left;",
+      "direction: left;"
+    ],
+    "answer": "float: left;"
+  },
+  {
+    "title": "Which property is used to add a background color to an element?",
+    "choices": [
+      "background",
+      "bgcolor",
+      "background-color",
+      "color-background"
+    ],
+    "answer": "background-color"
+  },
+  {
+    "title": "What is the purpose of the @import rule in CSS?",
+    "choices": [
+      "To import external style sheets",
+      "To import images",
+      "To import JavaScript files",
+      "To import HTML elements"
+    ],
+    "answer": "To import external style sheets"
+  },
+  {
+    "title": "Which property is used to control the margin around an element?",
+    "choices": ["padding", "border", "margin", "space"],
+    "answer": "margin"
+  },
+  {
+    "title": "What is the difference between inline and external CSS?",
+    "choices": [
+      "Inline CSS is defined within the HTML element, external CSS is defined in a separate file.",
+      "Inline CSS is defined in a separate file, external CSS is defined within the HTML element.",
+      "There is no difference between inline and external CSS.",
+      "Inline CSS is used for styling, external CSS is used for layout."
+    ],
+    "answer": "Inline CSS is defined within the HTML element, external CSS is defined in a separate file."
+  }
+]

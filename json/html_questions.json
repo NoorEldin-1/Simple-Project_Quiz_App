@@ -1,0 +1,77 @@
+[
+  {
+    "title": "What does HTML stand for?",
+    "choices": [
+      "Hyper Text Markup Language",
+      "High-Tech Multimedia Language",
+      "Home Tool Markup Language",
+      "Hyperlink and Text Markup Language"
+    ],
+    "answer": "Hyper Text Markup Language"
+  },
+  {
+    "title": "Which tag is used to define a paragraph in HTML?",
+    "choices": ["<br>", "<h1>", "<p>", "<div>"],
+    "answer": "<p>"
+  },
+  {
+    "title": "How do you create a hyperlink in HTML?",
+    "choices": [
+      "Using the <a> tag with the href attribute",
+      "Using the <link> tag",
+      "Using the <img> tag with a URL",
+      "Using the <b> tag"
+    ],
+    "answer": "Using the <a> tag with the href attribute"
+  },
+  {
+    "title": "What is the purpose of the <img> tag?",
+    "choices": [
+      "To create a list",
+      "To insert an image",
+      "To define a heading",
+      "To create a table"
+    ],
+    "answer": "To insert an image"
+  },
+  {
+    "title": "Which tag is used to define a list item in an unordered list?",
+    "choices": ["<ol>", "<li>", "<ul>", "<dl>"],
+    "answer": "<li>"
+  },
+  {
+    "title": "Which tag is used to define a table row in HTML?",
+    "choices": ["<tr>", "<td>", "<th>", "<table>"],
+    "answer": "<tr>"
+  },
+  {
+    "title": "What is the purpose of the <head> section in an HTML document?",
+    "choices": [
+      "To contain the main content of the page",
+      "To define metadata about the page",
+      "To style the page",
+      "To create a navigation bar"
+    ],
+    "answer": "To define metadata about the page"
+  },
+  {
+    "title": "Which attribute is used to specify the URL of an image in the <img> tag?",
+    "choices": ["href", "src", "alt", "title"],
+    "answer": "src"
+  },
+  {
+    "title": "What is the difference between <div> and <span> tags?",
+    "choices": [
+      "<div> is a block-level element, <span> is an inline element",
+      "<div> is an inline element, <span> is a block-level element",
+      "Both are block-level elements",
+      "Both are inline elements"
+    ],
+    "answer": "<div> is a block-level element, <span> is an inline element"
+  },
+  {
+    "title": "Which tag is used to define the title that appears in the browser tab?",
+    "choices": ["<title>", "<h1>", "<head>", "<meta>"],
+    "answer": "<title>"
+  }
+]
